@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake animation](https://github.com/im-mizuki/im-mizuki/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **im-mizuki/im-mizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
